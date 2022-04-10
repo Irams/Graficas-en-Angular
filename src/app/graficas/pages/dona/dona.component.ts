@@ -23,12 +23,7 @@ export class DonaComponent {
       // { data: [ 50, 150, 120 ] },
       // { data: [ 250, 130, 70 ] }
     ],
-    
   };
   public doughnutChartType: ChartType = 'doughnut';
-
-  public colors: Color[] =[
-  ]
-
 
 }
